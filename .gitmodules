@@ -44,11 +44,11 @@
 	branch = master
 [submodule "rhasspy-profile"]
 	path = rhasspy-profile
-	url = https://github.com/rhasspy/rhasspy-profile.git
+	url = https://github.com/simone-giudici/rhasspy-profile.git
 	branch = master
 [submodule "rhasspy-server-hermes"]
 	path = rhasspy-server-hermes
-	url = https://github.com/rhasspy/rhasspy-server-hermes.git
+	url = https://github.com/simone-giudici/rhasspy-server-hermes.git
 	branch = master
 [submodule "rhasspy-silence"]
 	path = rhasspy-silence
@@ -60,7 +60,7 @@
 	branch = master
 [submodule "rhasspy-supervisor"]
 	path = rhasspy-supervisor
-	url = https://github.com/rhasspy/rhasspy-supervisor.git
+	url = https://github.com/simone-giudici/rhasspy-supervisor.git
 	branch = master
 [submodule "rhasspy-tts-cli-hermes"]
 	path = rhasspy-tts-cli-hermes
@@ -68,7 +68,7 @@
 	branch = master
 [submodule "rhasspy-wake-porcupine-hermes"]
 	path = rhasspy-wake-porcupine-hermes
-	url = https://github.com/rhasspy/rhasspy-wake-porcupine-hermes.git
+	url = https://github.com/simone-giudici/rhasspy-wake-porcupine-hermes.git
 	branch = master
 [submodule "rhasspy-web-vue"]
 	path = rhasspy-web-vue
